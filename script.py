@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import *
 import tkinter.ttk as ttk
-from tkinter import *
 import pyshark
 import threading
 import asyncio
