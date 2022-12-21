@@ -1,5 +1,7 @@
 <h1>Open File Function</h1>
+
 ![Screenshot](Screenshot_1.jpg)
+
 <h1>Display Information</h1>
 ![Screenshot](Screenshot_2.jpg)
 <h1>Filter Information</h1>
