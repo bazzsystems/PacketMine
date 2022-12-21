@@ -1,4 +1,9 @@
-The provided script is a simple packet analyzer tool that allows a user to open a PCAP file, view the packets contained in it, and filter the packets based on a specified filter string. The script utilizes the tkinter library for the GUI and pyshark for packet analysis.
+
+![Screenshot](Screenshot_1.jpg)
+![Screenshot](Screenshot_2.jpg)
+![Screenshot](Screenshot_3.jpg)
+
+This script is a simple packet analyzer tool that allows a user to open a PCAP file, view the packets contained in it, and filter the packets based on a specified filter string. The script utilizes the tkinter library for the GUI and pyshark for packet analysis.
 
 The PacketInfo class is a helper class that extracts relevant information from a packet object and stores it in the object's attributes. The Application class is the main class of the script, and it contains the GUI elements and their corresponding functions.
 
