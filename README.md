@@ -1,6 +1,8 @@
-
+<h1>Open File Function</h1>
 ![Screenshot](Screenshot_1.jpg)
+<h1>Display Information</h1>
 ![Screenshot](Screenshot_2.jpg)
+<h1>Filter Information</h1>
 ![Screenshot](Screenshot_3.jpg)
 
 This script is a simple packet analyzer tool that allows a user to open a PCAP file, view the packets contained in it, and filter the packets based on a specified filter string. The script utilizes the tkinter library for the GUI and pyshark for packet analysis.
